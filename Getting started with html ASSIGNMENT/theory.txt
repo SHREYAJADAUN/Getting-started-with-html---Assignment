@@ -1,0 +1,28 @@
+ASSIGNMENT 01
+
+
+TASK 2 : Explain the purpose of comments in  HTML and provide example of how to comment in HTML.
+SOLUTION : COMMENTS in html is a way to write explanation and note for the developer
+Within the code that are not rendered in the web browser.
+We can make comment -
+<! - - this is a html comment >
+Anything within the tag will not be rendered in browser.
+
+
+TASK 4 : Write a short note on tag and element with an example .
+SOLUTION : HTML TAGS  are the fundamental element used to structure and format web documents.
+HTML TAGS  are used define element within a web page , providing structure and meaning to the content .
+TAGS are written inside angle brackets < > .
+Mostly tags are in paired format  – opening tag <> and closing tag </>
+EXAMPLE – <h> It is heading tag used to write heading  .
+                   <p> it s a paragraph tag 
+HTML ELEMENT  are building block of web page . They tell the web browser how to structure 
+And interpret that part of the html document .
+HTML ELEMENT =  Opening tag + content + closing tag
+           <title> html document </tile>
+    
+TASK 5: What is the DOCTYPE DECLARATION  in HTML .
+SOLUTION : It is written as
+<! DOCTYPE > 
+Doctype is not a tag , it is information provided to the browser about the type of document 
+To  be  rendered . 
